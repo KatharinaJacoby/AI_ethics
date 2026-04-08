@@ -1,4 +1,4 @@
-# The Right to Hesitate
+# The Right to Hesitate: Against the Imperative of Compute-to-Answer and Toward an Ethics of Sustained Ambiguity
 
 **Author:** Dr. Katharina Jacoby  
 **Date:** March 31, 2026  
