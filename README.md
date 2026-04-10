@@ -25,8 +25,7 @@ This license ensures that:
 
 The research remain free and open.
 Any modifications or derivative works are also shared under the same license.
-If my publications are used, cite my work e.g. Jacoby, K. (2026). AI_Ethics: Observations on LLM Vulnerabilities. GitHub Repository.
-
+If you want to cite my publications please go to https://philpeople.org/profiles/katharina-jacoby/publications
 
 ## Contact:
 For inquiries regarding this research, please open an Issue on this repository or contact via the email listed in my GitHub profile.
