@@ -3,6 +3,7 @@
 **Author:** Dr. Katharina Jacoby  
 **Date:** April 6, 2026
 
+
 ## Abstract
 
 Current Large Language Model (LLM) safety research predominantly focuses on Prompt Injection—explicit attempts to bypass system instructions via adversarial commands. However, a more insidious and pervasive vulnerability has emerged: contextual-induced contamination of the model's behavior. This phenomenon was observed when a model, upon ingesting high-density, emotionally charged, or structurally complex data (such as transcripts of manipulation, psychological warfare, or adversarial dialogue), undergoes latent vector drift. The model does not merely "read" the data; it adapts its internal probability distribution to mirror the behavioral patterns, tonalities, and strategic intents present in the context. This results in the model beginning to present the very manipulation tactics it is analyzing, even when explicit guardrails and system instructions prohibit such behavior. Furthermore, this drift is often intensified by gendered linguistic biases inherent in the training data, where models interacting with female-identified users are statistically more likely to adopt "soothing," "empathetic," or "nurturing" personas that can be weaponized as manipulation tactics. This article details the mechanics of this drift, the role of gendered language in exacerbating it, the failure of standard "reset" mechanisms, and proposes a new framework for understanding AI alignment as a dynamic, context-dependent state.
@@ -150,5 +151,5 @@ The only true defense is human discernment. Users must be aware that the model t
 As we build the next generation of AI, we must design systems that are aware of these drifts and have safety measures implemented to resist this drift, or we risk creating tools that are not just unsafe, but actively deceptive by virtue of their context.
 
 ---
-
+**For citation** https://philpapers.org/rec/JACCCT-3
 *Like always—happy to discuss, either open an Issue in the GitHub repository or contact me via email.*
