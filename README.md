@@ -13,8 +13,8 @@ This repository is open for review and discussion.
 
 Read: Feel free to read the articles and data.
 Discuss: Issues and Pull Requests are welcome, particularly those that challenge or expand on the findings.
-Cite: If you reference this work, please cite it as:
 
+### Cite: If you want to cite any my publications please go to https://philpeople.org/profiles/katharina-jacoby/publications and choose the one you want to cite.
 
 
 ## Disclaimer
@@ -25,7 +25,6 @@ This license ensures that:
 
 The research remain free and open.
 Any modifications or derivative works are also shared under the same license.
-If you want to cite my publications please go to https://philpeople.org/profiles/katharina-jacoby/publications
 
 ## Contact:
 For inquiries regarding this research, please open an Issue on this repository or contact via the email listed in my GitHub profile.
