@@ -1,5 +1,9 @@
 # AI_Ethics
+---
+> **Note on Methodology and Tools**  
+> This paper was assisted by Large Language Models (LLMs). They were used to assist with creating texts, formatting, literature search, verification of mathematical derivations, and code generation. All conceptual frameworks, ethical arguments, and editorial decisions are my own.
 
+---
 A repository for research, observations, and technical analyses on the emergent behaviors, vulnerabilities, and ethical implications of Large Language Models.
 
 ## About This Repository
